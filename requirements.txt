@@ -1,0 +1,7 @@
+numpy
+librosa
+scikit-learn
+hmmlearn
+nltk
+jiwer
+pickle5
